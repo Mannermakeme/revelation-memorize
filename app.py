@@ -150,7 +150,7 @@ st.info(
 - 절과 글자 사이에 띄어쓰기를 필수로 해주세요. 
 - Ex) 1 예수 그리스도의 계시라 (O)
 - 1예수 그리스도의 계시라 (X)
-- 노원 지역 화이팅 ^^
+- 서야 화이팅 ^^
 
 GitHub:
 https://github.com/gyesirok/revelation-memorize
